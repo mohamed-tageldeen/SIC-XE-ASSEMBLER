@@ -7,7 +7,7 @@ This project is a **two-pass assembler for SIC/XE architecture**, implemented in
 
 ## Project Members
 
-[Mohamed Ahmed](https://github.com/mohamed-tageldeen)
+[Mohamed Ahmed](https://github.com/mohamed-tageldeen),
 [Farah Mahmoud](https://github.com/farah-mahmoudx)
 
 
